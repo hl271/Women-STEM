@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.personal {
+    background-color: rgba(255, 104, 70, 0.72);
+    width: 35%;
+    float: left;
+    height: 100%;
+    padding: 1.5rem 1rem;
+
+}
+
+.photo {
+    text-align: center;
+}
+
+.photo h1 {
+    font-size: 2rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.photo h3 {
+    font-size: 1.5rem;
+    font-family: 'Dosis', sans-serif;
+    font-weight: normal;
+    margin: 0;
+}
+
+.photo img {
+    width: 7rem;
+    height: auto;
+    border: 1px solid #fff;
+
+}
+
+h2 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.75em;
+    font-weight: bold;
+
+}
+
+.personal h2 {
+    border-bottom: 1px solid #fff;
+}
+
+.personal li {
+    font-size: 1.25rem;
+
+}
+
+.personal p {
+    font-size: 1.25rem;
+	
+	margin-right: 1rem;
+}
+
+.main {
+    margin-left: 35%;
+    background-color: bisque;
+    height: 100%;
+    padding: 1rem 1.25rem;
+}
+
+.main h2 {
+    border-bottom: 1px soild #05263A;
+}
+
+table {
+	width: 80%;
+	border-collapse: collapse;
+	
+}
+
+td, th {
+	font-size: 1.5rem;
+	padding: 8px;
+	border: 1px solid #000;
+}
+	
+th {
+	border: 2px solid #000;
+}
+
+#progress {
+	width: 10rem;
+}

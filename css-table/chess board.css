@@ -1,0 +1,20 @@
+.background {
+    background-color: bisque;
+	width: 100%;
+}
+
+.trang {
+    background-color: #fff;
+
+}
+
+.den {
+    background-color: #000;
+}
+
+table {
+    width: 80%;
+    height: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
