@@ -1,0 +1,151 @@
+body {
+	box-sizing: border-box;
+	background: url(http://d352ltojookjzf.cloudfront.net/wp-content/uploads/2013/12/15-icon-patterns.jpg);
+}
+}
+
+
+
+.head {
+	margin: 0rem auto 0rem auto;
+	width: 99%;
+	min-height: 5rem;
+	background-color: #eee;
+	padding-top: 0.5rem;
+	padding-left: 1rem;
+	box-sizing: border-box;
+	border-top: 3px dashed #ccc;
+}
+
+.head h1 {
+	font-family: 'Lobster', cursive;
+	font-size: 3rem;
+	color: #008B8B;
+	margin: 0;
+}
+
+.head-link {
+	margin: 0 auto 1rem auto;
+	width: 99%;
+	min-height: 2rem;
+	background-color: #eee;
+	box-sizing: border-box;
+}
+
+.head-link li {
+	display: inline-block;
+	margin: 0;
+	padding: 1rem;
+}
+
+.head-link a {
+	text-decoration: none;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 1rem;
+	color: #000;
+}
+
+.head-link li:hover {
+	background-color: #ccc;
+}
+
+.left {
+	float: left;
+	width: 30%;
+	min-height: 20rem;
+	box-sizing: border-box;
+	background-color: #eee;
+	margin: 0rem 0.8rem 1rem 0.5rem;
+	padding-top: 0.5rem;
+	text-align: center;
+}
+
+.video {
+	margin-bottom: 1rem;
+	width: 85%;
+	text-align: center;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+	
+.left img {
+	width: 100%;
+	height: auto;
+	margin-bottom: 0rem;
+}
+
+.left h5 {
+	color: #343333;
+	font-size: 1.5rem;
+	text-align: left;
+	margin-bottom: 0.25em;
+	margin-top: 0;
+}
+
+
+
+.left p {
+	font-weight: bold;
+	font-size: 1.25rem;
+	color: #ccc;
+	margin: 0;
+	text-align: left;
+}
+
+.left h2 {
+	font-family: 'Spectral', serif;
+	font-size: 2rem;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0.25rem;
+}
+
+.content {
+	float: right;
+	width: 67%;
+	min-height: 30rem;
+	background-color: #eee;
+	margin: 0 0.5rem 1rem 0rem;
+}
+
+iframe {
+	margin: 2rem 0 0.5rem 2rem;
+}
+
+.content h2 {
+	margin-top: 0;
+	margin-left: 2rem;
+	margin-bottom: 0;
+}
+
+.content a {
+	margin-left: 2rem;
+	margin-top: 0;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 1.5rem;
+	color: rgb(0,0,0,0);
+	background-color: #eee;
+	padding: 1rem;
+	color: #ccc;
+}
+
+.right {
+	float: right;
+	width: 22.5%;
+	min-height: 20rem;
+	background-color: #ccc;
+	margin: 0rem 0.5rem 1rem 0rem;
+	display: none;
+}
+
+.footer {
+	clear: left;
+	width: 100%;
+	min-height: 3rem;
+	background-color: #ccc;
+}
+	
