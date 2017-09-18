@@ -2,7 +2,7 @@ body {
 	box-sizing: border-box;
 	background: url(http://d352ltojookjzf.cloudfront.net/wp-content/uploads/2013/12/15-icon-patterns.jpg);
 }
-}
+
 
 
 
@@ -10,11 +10,11 @@ body {
 	margin: 0rem auto 0rem auto;
 	width: 99%;
 	min-height: 5rem;
-	background-color: #eee;
+	background-color: #none;
 	padding-top: 0.5rem;
 	padding-left: 1rem;
 	box-sizing: border-box;
-	border-top: 3px dashed #ccc;
+	border-bottom: 5px dashed #ccc;
 }
 
 .head h1 {
